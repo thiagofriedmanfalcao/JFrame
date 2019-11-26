@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Teste",
+            "request": "launch",
+            "mainClass": "Teste"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExemploFrame",
+            "request": "launch",
+            "mainClass": "frame.ExemploFrame"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExemploFrame",
+            "request": "launch",
+            "mainClass": "jframe.ExemploFrame"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExemploFrame",
+            "request": "launch",
+            "mainClass": "ExemploFrame"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JFrameExemplo",
+            "request": "launch",
+            "mainClass": "JFrameExemplo"
+        }
+    ]
+}
