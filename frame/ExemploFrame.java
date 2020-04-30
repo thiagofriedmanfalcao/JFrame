@@ -8,10 +8,10 @@ public class ExemploFrame extends JFrame{
     public ExemploFrame() {
         JButton button1 = new JButton("PAUSAR");
 
-        JLabel labelNome = new JLabel("Nome");
-        JLabel labelUsername = new JLabel("Username");
-        JLabel labelSenha = new JLabel("Senha");
-        JLabel labelObs = new JLabel("Obs");
+        JLabel labelNome = new JLabel("Nome:");
+        JLabel labelUsername = new JLabel("Username:");
+        JLabel labelSenha = new JLabel("Senha:");
+        JLabel labelObs = new JLabel("Obs:");
 
         JTextField textNome = new JTextField(25);
         JTextField textUsername = new JTextField(25);
